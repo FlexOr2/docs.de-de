@@ -38,75 +38,75 @@ Im Folgenden werden die Arten von Anweisungen aufgelistet, die verwendet werden 
 
 * Deklaration lokaler Variablen:
 
- [!code-csharp[Declarations](../../../samples/snippets/csharp/tour/statements/Program.cs#L9-L15)]
+ [!code-csharp[Declarations](../../../samples/snippets/csharp/tour/statements/Program.cs#L8-L14)]
 
 * Deklaration lokaler Konstanten:
 
- [!code-csharp[ConstantDeclarations](../../../samples/snippets/csharp/tour/statements/Program.cs#L17-L22)]
+ [!code-csharp[ConstantDeclarations](../../../samples/snippets/csharp/tour/statements/Program.cs#L16-L21)]
 
 * Ausdrucksanweisung:
 
- [!code-csharp[Expressions](../../../samples/snippets/csharp/tour/statements/Program.cs#L24-L31)]
+ [!code-csharp[Expressions](../../../samples/snippets/csharp/tour/statements/Program.cs#L23-L30)]
 
 * `if`-Anweisung:
 
- [!code-csharp[IfStatement](../../../samples/snippets/csharp/tour/statements/Program.cs#L33-L43)]
+ [!code-csharp[IfStatement](../../../samples/snippets/csharp/tour/statements/Program.cs#L32-L42)]
 
 * `switch`-Anweisung:
 
- [!code-csharp[SwitchStatement](../../../samples/snippets/csharp/tour/statements/Program.cs#L45-L60)]
+ [!code-csharp[SwitchStatement](../../../samples/snippets/csharp/tour/statements/Program.cs#L44-L59)]
 
 * `while`-Anweisung:
 
- [!code-csharp[WhileStatement](../../../samples/snippets/csharp/tour/statements/Program.cs#L62-L70)]
+ [!code-csharp[WhileStatement](../../../samples/snippets/csharp/tour/statements/Program.cs#L61-L69)]
 
 * `do`-Anweisung:
 
- [!code-csharp[DoStatement](../../../samples/snippets/csharp/tour/statements/Program.cs#L72-L81)]
+ [!code-csharp[DoStatement](../../../samples/snippets/csharp/tour/statements/Program.cs#L71-L80)]
 
 * `for`-Anweisung:
 
- [!code-csharp[ForStatement](../../../samples/snippets/csharp/tour/statements/Program.cs#L83-L89)]
+ [!code-csharp[ForStatement](../../../samples/snippets/csharp/tour/statements/Program.cs#L82-L88)]
 
 * `foreach`-Anweisung:
 
- [!code-csharp[ForEachStatement](../../../samples/snippets/csharp/tour/statements/Program.cs#L91-L97)]
+ [!code-csharp[ForEachStatement](../../../samples/snippets/csharp/tour/statements/Program.cs#L90-L96)]
 
 * `break`-Anweisung:
 
- [!code-csharp[BreakStatement](../../../samples/snippets/csharp/tour/statements/Program.cs#L99-L108)]
+ [!code-csharp[BreakStatement](../../../samples/snippets/csharp/tour/statements/Program.cs#L98-L107)]
 
 * `continue`-Anweisung:
 
- [!code-csharp[ContinueStatement](../../../samples/snippets/csharp/tour/statements/Program.cs#L110-L118)]
+ [!code-csharp[ContinueStatement](../../../samples/snippets/csharp/tour/statements/Program.cs#L109-L117)]
 
 * `goto`-Anweisung:
 
- [!code-csharp[GotoStatement](../../../samples/snippets/csharp/tour/statements/Program.cs#L120-L129)]
+ [!code-csharp[GotoStatement](../../../samples/snippets/csharp/tour/statements/Program.cs#L119-L128)]
 
 * `return`-Anweisung:
 
- [!code-csharp[ReturnStatement](../../../samples/snippets/csharp/tour/statements/Program.cs#L131-L139)]
+ [!code-csharp[ReturnStatement](../../../samples/snippets/csharp/tour/statements/Program.cs#L130-L138)]
 
 * `yield`-Anweisung:
 
- [!code-csharp[YieldStatement](../../../samples/snippets/csharp/tour/statements/Program.cs#L141-L155)]
+ [!code-csharp[YieldStatement](../../../samples/snippets/csharp/tour/statements/Program.cs#L140-L154)]
 
 * `throw`-Anweisungen und `try`-Anweisungen:
 
- [!code-csharp[TryThrow](../../../samples/snippets/csharp/tour/statements/Program.cs#L157-L183)]
+ [!code-csharp[TryThrow](../../../samples/snippets/csharp/tour/statements/Program.cs#L156-L182)]
 
 * `checked`- und `unchecked`-Anweisungen:
 
- [!code-csharp[CheckedUncheckedStatement](../../../samples/snippets/csharp/tour/statements/Program.cs#L185-L196)]
+ [!code-csharp[CheckedUncheckedStatement](../../../samples/snippets/csharp/tour/statements/Program.cs#L184-L195)]
 
 * `lock`-Anweisung:
 
- [!code-csharp[LockStatement](../../../samples/snippets/csharp/tour/statements/Program.cs#L257-L273)]
+ [!code-csharp[LockStatement](../../../samples/snippets/csharp/tour/statements/Program.cs#L256-L272)]
 
 * `using`-Anweisung:
 
- [!code-csharp[UsingStatement](../../../samples/snippets/csharp/tour/statements/Program.cs#L198-L206)]
+ [!code-csharp[UsingStatement](../../../samples/snippets/csharp/tour/statements/Program.cs#L197-L205)]
 
 >[!div class="step-by-step"]
 [Zurück](expressions.md)
